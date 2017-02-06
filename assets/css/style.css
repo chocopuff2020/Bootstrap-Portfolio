@@ -1,0 +1,33 @@
+/* LAYOUT */
+.footer {
+	border-top: 9px solid #4aaaa5;
+	height:10%;
+}
+
+
+
+/* COLORS */
+.font-mint {
+	color: #4aaaa5;
+}
+
+.font-white {
+	color:white;
+}
+.bg-gray {
+	background-color: #666666;
+	text-align: center;
+	font-size:15px;
+}
+
+
+
+/* PICS */
+img {
+	width:25%;
+}
+.social-icon {
+	width:25%;
+	float:left;
+	margin-left:9px;
+}
