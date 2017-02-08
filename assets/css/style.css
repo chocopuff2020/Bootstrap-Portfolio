@@ -22,7 +22,9 @@
 	background-color: #4aaaa5;
 	height:40px;
 }
-
+.aboutme-text {
+	margin-top: 20px;
+}
 
 /* PICS */
 img {
@@ -43,4 +45,10 @@ img {
 	width:25%;
 	float:left;
 	margin-left:9px;
+}
+
+
+/* PICS */
+.mb-35 {
+	margin-bottom:35%;
 }
